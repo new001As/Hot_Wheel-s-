@@ -1,7 +1,7 @@
 import axios from "axios";
 import { message } from "antd";
 const API = axios.create({
-  baseURL: "https://zooprides-api.herokuapp.com/api/",
+  baseURL: "https://hotwheel.herokuapp.com/api/",
 });
 
 export const adminLogin = (reqObj) => async (dispatch) => {
