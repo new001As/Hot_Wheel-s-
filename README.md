@@ -69,10 +69,10 @@ It also have an admin section where a person can register himself as an admin an
 &nbsp;
 &nbsp;
 &nbsp;
-registration page
+
 
 ### Admin section
-![adminRegister](https://https://github.com/new001As/Hot_Wheels/blob/main/image/admin/1.admin%20registration.png?raw=true)
+![adminRegister](https://github.com/new001As/Hot_Wheels/blob/main/image/admin/1.admin%20registration.png?raw=true)
 ![adminlogin](https://github.com/new001As/Hot_Wheels/blob/main/image/admin/2.admin%20page.png?raw=true)
 ![adminhome](https://github.com/new001As/Hot_Wheels/blob/main/image/admin/3.admin%20panel.png?raw=true)
 ![adminaddbike](https://github.com/new001As/Hot_Wheels/blob/main/image/admin/4.add%20bike.png?raw=true)
